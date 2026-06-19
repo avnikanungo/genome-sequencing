@@ -21,7 +21,7 @@ This is the standard review dossier template. Every team member must copy this f
 *   **Authors**: [Pre-fill or update once known]
 *   **Year**: 2019
 *   **Journal / Conference**: Nature Reviews Genetics
-*   **DOI**: `10.1038/nrg.2019.0122-6`
+*   **DOI**: `10.1038/s41576-019-0122-6`
 *   **Link**: [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
 
 | Evaluation Field | Researcher Analysis |
