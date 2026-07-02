@@ -27,11 +27,12 @@ This directory houses the systematic literature reviews for Abhiraj Arya. Follow
     *   *Briefings in Bioinformatics (2022)* | DOI: `10.1093/bib/bbac141`
 7.  **[Paper 7: Beyond Sequencing: Machine Learning Algorithms Extract Biology Hidden in Nanopore Signal Data](paper-7.md)**
     *   *Nature Methods (2021)* | DOI: `10.1038/s41592-021-01101-0`
-8.  **[Paper 8: Deep Learning: New Computational Modelling Techniques for Genomics](paper-8.md)**
-    *   *Nature Reviews Genetics (2019)* | DOI: `10.1038/s41576-018-0026-1`
+8.  **[Paper 8: Machine learning approaches for advanced detection of rare genetic 
+        disorders in whole-genome sequencing](paper-8.md)**
+    *   *ScienceDirect (2024)* | DOI: `10.1016/j.aej.2024.08.056`
 9.  **[Paper 9: Highly Accurate Protein Structure Prediction with AlphaFold](paper-9.md)**
     *   *Nature (2021)* | DOI: `10.1038/s41586-021-03819-2`
-
+    
 ---
 
 ## 🏁 Section 3: Synthesis Summary
