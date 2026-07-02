@@ -22,15 +22,15 @@ This directory houses the systematic literature reviews for Bhumika. Follow the 
 ## 🔬 Section 2: Self-Selected Papers
 
 5.  **[Paper 5: Best Practices for Variant Calling in Clinical Sequencing](paper-5.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *Genome Medicine (2020)* | DOI: `10.1186/s13073-020-00791-w`
 6.  **[Paper 6: Whole-Genome Sequencing Surveillance and Machine Learning for Healthcare Outbreak Detection and Investigation: A Systematic Review and Summary](paper-6.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *Antimicrobial Stewardship & Healthcare Epidemiology (2022)* | DOI: `10.1017/ash.2021.241`
 7.  **[Paper 7: Comparison of Three Variant Callers for Human Whole Genome Sequencing](paper-7.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *Scientific Reports (2018))* | DOI: `10.1038/s41598-018-36177-7`
 8.  **[Paper 8: Machine Learning Enables Detection of Early-Stage Colorectal Cancer by Whole-Genome Sequencing of Plasma Cell-Free DNA](paper-8.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *BMC Cancer (2019)* | DOI: `10.1186/s12885-019-6003-8`
 9.  **[Paper 9: Prediction of Antimicrobial Resistance Based on Whole-Genome Sequencing and Machine Learning](paper-9.md)**
-    *   *TBC (TBC)* | DOI: `TBC`
+    *   *Bioinformatics (2022)* | DOI: `10.1093/bioinformatics/btab681`
 
 ---
 
@@ -39,13 +39,13 @@ This directory houses the systematic literature reviews for Bhumika. Follow the 
 *Leave this section blank until all reviews are complete. Compile these final conclusions to summarize your findings in this folder.*
 
 ### 🔍 Common Themes Across Reviewed Papers
-*   *Theme 1: [your notes here]*
-*   *Theme 2: [your notes here]*
+*   *Theme 1: [Accuracy of variant calling depends heavily on tool choice and depth so no single tool is perfect, and combining multiple tools (or using AI-based ones like DeepVariant) consistently improves results across nearly all papers reviewed.]*
+*   *Theme 2: [Combining multiple orthogonal data sources such as genomic data with electronic health records, single-cell with spatial datan, or DNA with epigenetic marks consistently improves accuracy over using any single data type alone.]*
 
 ### 🛠️ Key Methods/Tools That Appear Repeatedly
-*   *Method/Tool 1: [your notes here]*
-*   *Method/Tool 2: [your notes here]*
+*   *Method/Tool 1: [GATK (HaplotypeCaller) used as the "gold standard" baseline variant caller across multiple papers for comparison against newer methods.]*
+*   *Method/Tool 2: [Convolutional Neural Networks (CNNs) used repeatedly for sequence-based prediction tasks, including DeepVariant , AMR prediction , and general genomics deep learning applications.]*
 
 ### 🕳️ Gaps in Literature Relevant to Our Project
-*   *Gap 1: [your notes here]*
-*   *Gap 2: [your notes here]*
+*   *Gap 1: [Most studies (e.g., outbreak detection, Paper 6) are retrospective rather than real-time, limiting practical clinical impact so real-time genome sequencing pipelines remain underexplored.]*
+*   *Gap 2: [Structural variant (SV) detection remains far less accurate (F1 ~0.80–0.90) than SNV/indel detection (F1 ~0.98–0.99) across all variant-calling papers, showing a clear technical gap our project should be aware of when choosing tools.]*
