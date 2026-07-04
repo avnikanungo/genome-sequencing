@@ -37,15 +37,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *Deep Learning: New Computational Modelling Techniques for Genomics* | Nature Reviews Genetics (2019) | DOI: `10.1038/s41576-018-0026-1`
     5.  *Highly Accurate Protein Structure Prediction with AlphaFold* | Nature (2021) | DOI: `10.1038/s41586-021-03819-2`
 
-### 3. Hitanshi Bedi
-*   **Paper Selections**:
-    1.  *An Alignment-Based DNA Language Model for Genome-Wide Variant Effect Prediction* | 2024 | DOI: `TBC`
-    2.  *Contrastive Learning-Based Deep Hybrid Network for Nanopore Methylation Detection* | 2024 | DOI: `TBC`
-    3.  *Semi-Supervised Approach to Multi-Condition scRNA-seq Using GNNs* | 2024 | DOI: `TBC`
-    4.  *A Hierarchical Genomic Deep Neural Network with 1D Shifted Window Transformer* | 2023 | DOI: `TBC`
-    5.  *High-Throughput Deep Learning Variant Effect Prediction with Sequence UNET* | 2023 | DOI: `TBC`
-
-### 4. Dhriti Goswami
+### 3. Dhriti Goswami
 *   **Paper Selections**:
     1.  *Artificial Intelligence in Clinical and Genomic Diagnostics* | Genome Medicine (2018) | DOI: `10.1186/s13073-018-0589-9`
     2.  *Advancing Genome Editing with AI* | Frontiers in Bioengineering (2023) | DOI: `10.3389/fbioe.2023.1256871`
@@ -53,15 +45,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *Deep Learning for Genomics: A Concise Overview* | arXiv (2018) | DOI: `10.48550/arXiv.1802.00810`
     5.  *Geometric Deep Learning Framework for de Novo Genome Assembly* | bioRxiv (2021/2025) | DOI: `10.1101/2024.03.11.584353`
 
-### 5. Arav Jain
-*   **Paper Selections**:
-    1.  *Disease Trigger Prediction Using AIML for Epilepsy* | IEEE ICSTCE (2023) | DOI: `10.1109/ICSTCE57884.2023.10111452`
-    2.  *AIML Approaches for Genomics and Biomarker Discovery in ADRD* | Alzheimer's & Dementia (2021) | DOI: `10.1002/alz.055848`
-    3.  *ML-Based System for Predicting Monogenic Genetic Disorders* | IEEE ICOEI (2023) | DOI: `10.1109/ICOEI56765.2023.10125672`
-    4.  *Efficient Deep CNN for Genomic Sequence Classification* | IEEE ICBDS (2021) | DOI: `10.1109/ICBDS53701.2021.9935914`
-    5.  *Detecting Gene Sequence of Cervical Cancer via Biomedical Sensors* | IEEE CSITSS (2022) | DOI: `10.1109/CSITSS57431.2022.10031644`
-
-### 6. Kamakshi
+### 4. Kamakshi
 *   **Paper Selections**:
     1.  *AlphaMissense: Accurate Proteome-Wide Missense Variant Effect Prediction* | Science (2023) | DOI: `10.1126/science.adg7492`
     2.  *AI Enables Genome Interpretation for Rare Genetic Diseases* | Genome Medicine (2021) | DOI: `10.1186/s13073-021-00965-0`
@@ -69,7 +53,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *NanoCaller: SNPs and Indels from Long-Read Sequencing* | Genome Biology (2021) | DOI: `10.1186/s13059-020-02249-1`
     5.  *MVP Predicts Pathogenicity of Missense Variants by Deep Learning* | Nature Communications (2021) | DOI: `10.1038/s41467-020-20847-0`
 
-### 7. Aditya Panda
+### 5. Aditya Panda
 *   **Paper Selections**:
     1.  *Predicting Splicing from Primary Sequence with Deep Learning* | Cell (2019) | DOI: `10.1016/j.cell.2018.12.015`
     2.  *Genome-Wide Prediction of Disease Variant Effects with ESM1b* | 2022 | DOI: `TBC`
@@ -77,7 +61,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *PEPPER-Margin-DeepVariant for Nanopore Long-Reads* | Nature Methods (2021) | DOI: `10.1038/s41592-021-01299-w`
     5.  *DeepConsensus: Gap-Aware Sequence Transformer* | Nature Biotechnology (2023) | DOI: `10.1038/s41587-022-01435-7`
 
-### 8. Lavanya Mathur
+### 6. Lavanya Mathur
 *   **Paper Selections**:
     1.  *DeepC: Predicting 3D Genome Folding via Transfer Learning* | Nature Methods (2020) | DOI: `10.1038/s41592-020-0854-y`
     2.  *Akita: Predicting 3D Genome Folding from DNA Sequence* | Nature Methods (2020) | DOI: `10.1038/s41592-020-0958-4`
@@ -85,7 +69,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *Multi-Task CNN for Variant Calling in Single Molecule Sequencing* | Nature Communications (2019) | DOI: `10.1038/s41467-019-09025-z`
     5.  *Chiron: Nanopore Raw Signal to Nucleotide Sequence via Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
 
-### 9. Bhumika
+### 7. Bhumika
 *   **Paper Selections**:
     1.  *Best Practices for Variant Calling in Clinical Sequencing* | DOI: `TBC`
     2.  *WGS Surveillance and ML for Healthcare Outbreak Detection* | DOI: `TBC`
@@ -93,7 +77,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *ML Enables Detection of Early-Stage Colorectal Cancer via WGS* | DOI: `TBC`
     5.  *Prediction of Antimicrobial Resistance Based on WGS and ML* | DOI: `TBC`
 
-### 10. Chetna Negi
+### 8. Chetna Negi
 *   **Paper Selections**:
     1.  *Deep learning for genomics using Janggu* | Nature Communications (2020) | DOI: `10.1038/s41467-020-17155-y`
     2.  *Twelve quick steps for genome assembly and annotation in the classroom* | PLOS Computational Biology (2020) | DOI: `10.1371/journal.pcbi.1008325`
@@ -102,7 +86,7 @@ The following sections list the approved paper selections for each researcher. U
     5.  *Genomic benchmarks: a collection of datasets for genomic sequence classification* | BMC Genomic Data (2023) | DOI: `10.1186/s12863-023-01123-8`
 
 
-### 11. Avni Kanungo
+### 9. Avni Kanungo
 *   **Paper Selections**:
     1.  *Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection* | Data Mining and Knowledge Discovery (2026) | DOI: `10.1007/s10791-026-10173-2`
     2.  *Applications and Trends of Machine Learning in Genomics and Phenomics for Next-Generation Breeding* | Plants (MDPI) (2020) | DOI: `10.3390/plants9010034`
@@ -111,7 +95,7 @@ The following sections list the approved paper selections for each researcher. U
     5.  *Whole-genome phenotype prediction with machine learning: open problems in bacterial genomics* | Bioinformatics (2025) | DOI: `10.1093/bioinformatics/btaf206`
 
 
-### 12. Kopal Gupta
+### 10. Kopal Gupta
 *   **Paper Selections**:
     1.  *Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
     2.  *Cell2location maps fine-grained cell types in spatial transcriptomics* | Nature Biotechnology (2022) | DOI: `10.1038/s41587-021-01139-4`
@@ -119,7 +103,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *A universal SNP and small-indel variant caller using deep neural networks* | Nature Biotechnology (2018) | DOI: `10.1038/nbt.4235`
     5.  *Predicting 3D Genome Folding from DNA Sequence with Akita* | Nature Methods (2020) | DOI: `10.1038/s41592-020-0958-4`
 
-### 13. Akshat Arora
+### 11. Akshat Arora
 *   **Paper Selections**:
     1.  *Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
     2.  *Cell2location maps fine-grained cell types in spatial transcriptomics* | Nature Biotechnology (2022) | DOI: `10.1038/s41587-021-01139-4`
@@ -127,7 +111,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *A universal SNP and small-indel variant caller using deep neural networks* | Nature Biotechnology (2018) | DOI: `10.1038/nbt.4235`
     5.  *Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection* | Data Mining and Knowledge Discovery (2026) | DOI: `10.1007/s10791-026-10173-2`
 
-### 14. Utkarsh Gupta
+### 12. Utkarsh Gupta
 *   **Paper Selections**:
     1.  *Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
     2.  *Cell2location maps fine-grained cell types in spatial transcriptomics* | Nature Biotechnology (2022) | DOI: `10.1038/s41587-021-01139-4`
@@ -135,7 +119,7 @@ The following sections list the approved paper selections for each researcher. U
     4.  *A universal SNP and small-indel variant caller using deep neural networks* | Nature Biotechnology (2018) | DOI: `10.1038/nbt.4235`
     5.  *Predicting 3D Genome Folding from DNA Sequence with Akita* | Nature Methods (2020) | DOI: `10.1038/s41592-020-0958-4`
 
-### 15. Kaashvi
+### 13. Kaashvi
 *   **Paper Selections**:
     1.  *Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
     2.  *Cell2location maps fine-grained cell types in spatial transcriptomics* | Nature Biotechnology (2022) | DOI: `10.1038/s41587-021-01139-4`
