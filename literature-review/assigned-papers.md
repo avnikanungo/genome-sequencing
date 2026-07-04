@@ -110,3 +110,35 @@ The following sections list the approved paper selections for each researcher. U
     4.  *Machine Learning Applications for Fisheries—At Scales from Genomics to Ecosystems* | Reviews in Fisheries Science & Aquaculture (2024) | DOI: `10.1080/23308249.2024.2423189`
     5.  *Whole-genome phenotype prediction with machine learning: open problems in bacterial genomics* | Bioinformatics (2025) | DOI: `10.1093/bioinformatics/btaf206`
 
+
+### 12. Kopal Gupta
+*   **Paper Selections**:
+    1.  *Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
+    2.  *Cell2location maps fine-grained cell types in spatial transcriptomics* | Nature Biotechnology (2022) | DOI: `10.1038/s41587-021-01139-4`
+    3.  *Deep learning: new computational modelling techniques for genomics* | Nature Reviews Genetics (2019) | DOI: `10.1038/s41576-019-0122-6`
+    4.  *A universal SNP and small-indel variant caller using deep neural networks* | Nature Biotechnology (2018) | DOI: `10.1038/nbt.4235`
+    5.  *Predicting 3D Genome Folding from DNA Sequence with Akita* | Nature Methods (2020) | DOI: `10.1038/s41592-020-0958-4`
+
+### 13. Akshat Arora
+*   **Paper Selections**:
+    1.  *Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
+    2.  *Cell2location maps fine-grained cell types in spatial transcriptomics* | Nature Biotechnology (2022) | DOI: `10.1038/s41587-021-01139-4`
+    3.  *Deep learning: new computational modelling techniques for genomics* | Nature Reviews Genetics (2019) | DOI: `10.1038/s41576-019-0122-6`
+    4.  *A universal SNP and small-indel variant caller using deep neural networks* | Nature Biotechnology (2018) | DOI: `10.1038/nbt.4235`
+    5.  *Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection* | Data Mining and Knowledge Discovery (2026) | DOI: `10.1007/s10791-026-10173-2`
+
+### 14. Utkarsh Gupta
+*   **Paper Selections**:
+    1.  *Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
+    2.  *Cell2location maps fine-grained cell types in spatial transcriptomics* | Nature Biotechnology (2022) | DOI: `10.1038/s41587-021-01139-4`
+    3.  *Deep learning: new computational modelling techniques for genomics* | Nature Reviews Genetics (2019) | DOI: `10.1038/s41576-019-0122-6`
+    4.  *A universal SNP and small-indel variant caller using deep neural networks* | Nature Biotechnology (2018) | DOI: `10.1038/nbt.4235`
+    5.  *Predicting 3D Genome Folding from DNA Sequence with Akita* | Nature Methods (2020) | DOI: `10.1038/s41592-020-0958-4`
+
+### 15. Kaashvi
+*   **Paper Selections**:
+    1.  *Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning* | GigaScience (2018) | DOI: `10.1093/gigascience/giy037`
+    2.  *Cell2location maps fine-grained cell types in spatial transcriptomics* | Nature Biotechnology (2022) | DOI: `10.1038/s41587-021-01139-4`
+    3.  *Deep learning: new computational modelling techniques for genomics* | Nature Reviews Genetics (2019) | DOI: `10.1038/s41576-019-0122-6`
+    4.  *A universal SNP and small-indel variant caller using deep neural networks* | Nature Biotechnology (2018) | DOI: `10.1038/nbt.4235`
+    5.  *Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection* | Data Mining and Knowledge Discovery (2026) | DOI: `10.1007/s10791-026-10173-2`
