@@ -37,15 +37,18 @@ Our multi-disciplinary team brings together expertise in deep learning, computat
 | **Samyak Jain** | 👑 Team & Research Lead | *Exempt* | [`@samyak-jain`](https://github.com/samyak-jain) |
 | **Akshita Goel** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/akshita-goel/) | [`AKSHITA-DEBUG`](https://github.com/AKSHITA-DEBUG) |
 | **Abhiraj Arya** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/abhiraj-arya/) | [`@abhiraj-arya`](https://github.com/abhiraj-arya2006) |
-| **Hitanshi Bedi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/hitanshi-bedi/) | [`@hitanshi-bedi`](https://github.com/hitanshi-bedi) |
 | **Dhriti Goswami** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/dhriti-goswami/) | [`@dhriti-goswami`](https://github.com/dhriti-goswami) |
-| **Arav Jain** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/arav-jain/) | [`@arav-jain`](https://github.com/arav-jain) |
 | **Kamakshi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/kamakshi/) | [`@kamakshi`](https://github.com/kams19-ops) |
 | **Aditya Panda** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/aditya-panda/) | [`@aditya-panda`](https://github.com/aditya-panda) |
 | **Lavanya Mathur** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/lavanya-mathur/) | [`@lavanya-mathur`](https://github.com/lavanya-mathur) |
 | **Bhumika** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/bhumikamansinghka/) | [`@bhumikamansinghka`](https://github.com/bhumikamansinghka) |
 | **Chetna Negi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/chetna-negi/) | [`@chetna-negi`](https://github.com/chetna-negi) |
-| **Avni Kanungo** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/avnikanungo/) | [`@avnikanungo`](https://github.com/avnikanungo) |
+| **Avni Kanungo** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/avni-kanungo/) | [`@avnikanungo`](https://github.com/avnikanungo) |
+| **Akshat Arora** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/akshat-arora/) | [`@akshatarora`](https://github.com/akshatarora) |
+| **Kopal Gupta** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/kopal-gupta/) | [`@kopalgupta`](https://github.com/kopalgupta) |
+| **Utkarsh Gupta** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/utkarsh-gupta/) | [`@utkarshgupta`](https://github.com/utkarshgupta) |
+| **Kaashvi** | 🔬 Research Member | [View Folder](file:///home/sammyyakk/projects/genome-sequencing/literature-review/members/kaashvi/) | [`kaashvi`](https://github.com/kaashvi) |
+
 
 
 ---
@@ -56,19 +59,19 @@ To maintain momentum and ensure seamless integration of prior literature into ou
 
 ```mermaid
 gantt
-    title Research Phase Milestones & Deadlines (2025)
+    title Research Phase Milestones & Deadlines (2026)
     dateFormat  YYYY-MM-DD
     section Literature Review
-    Paper Selections Confirmed    :milestone, active, 2025-06-01, 1d
-    Systematic Paper Reviews      :active, 2025-06-01, 2025-06-30
-    Full Review Reports Due       :milestone, active, 2025-06-30, 1d
+    Paper Selections Confirmed    :milestone, active, 2026-06-01, 1d
+    Systematic Paper Reviews      :active, 2026-06-01, 2026-06-30
+    Full Review Reports Due       :milestone, active, 2026-06-30, 1d
     section Pipeline Implementation
-    Architecture Planning         :crit, 2025-07-01, 2025-07-15
-    Model Prototyping & Training  :2025-07-15, 2025-08-30
+    Architecture Planning         :crit, 2026-07-01, 2026-07-15
+    Model Prototyping & Training  :2026-07-15, 2026-08-30
 ```
 
-*   **📅 June 1, 2025**: **Paper Selections Locked** - All members must finalize their 5 self-selected papers in their respective review directories.
-*   **📅 June 30, 2025**: **Full Reports Submitted** - Systematic review sheets (9 paper files per member) must be completed and merged into the main branch.
+*   **📅 June 1, 2026**: **Paper Selections Locked** - All members must finalize their 5 self-selected papers in their respective review directories.
+*   **📅 June 30, 2026**: **Full Reports Submitted** - Systematic review sheets (9 paper files per member) must be completed and merged into the main branch.
 
 ---
 
@@ -92,15 +95,17 @@ Genome-Sequencing/
 │       │   ├── paper-4.md          # Haplotype variant calling (Assigned)
 │       │   └── paper-[5-9].md      # 5 Self-selected papers reviews
 │       ├── aditya-panda/           # Pre-filled reviews for Aditya Panda
+│       ├── akshat-arora/           # Pre-filled reviews for Akshat Arora
 │       ├── akshita-goel/           # Pre-filled reviews for Akshita Goel
-│       ├── arav-jain/              # Pre-filled reviews for Arav Jain
 │       ├── avni-kanungo/           # Reviews for Avni Kanungo (Added)
 │       ├── bhumika/                # Pre-filled reviews for Bhumika
 │       ├── chetna-negi/            # Reviews for Chetna Negi (Added)
 │       ├── dhriti-goswami/         # Pre-filled reviews for Dhriti Goswami
-│       ├── hitanshi-bedi/          # Pre-filled reviews for Hitanshi Bedi
+│       ├── kaashvi/                # Reviews for Kaashvi (Added)
 │       ├── kamakshi/               # Pre-filled reviews for Kamakshi
-│       └── lavanya-mathur/         # Pre-filled reviews for Lavanya Mathur
+│       ├── kopal-gupta/            # Reviews for Kopal Gupta (Added)
+│       ├── lavanya-mathur/         # Pre-filled reviews for Lavanya Mathur
+│       └── utkarsh-gupta/          # Reviews for Utkarsh Gupta (Added)
 ├── problems/                       # Target problem definitions and pipeline architecture
 
 │   ├── problem-3-variant-prioritization/

@@ -1,7 +1,7 @@
-# 📄 Paper 1: Deep learning: new computational modelling techniques for genomics
-*   **Journal / Conference**: Nature Reviews Genetics (2019)
-*   **DOI**: `10.1038/s41576-019-0122-6`
-*   **Link**: [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
+# 📄 Paper 4: A universal SNP and small-indel variant caller using deep neural networks
+*   **Journal / Conference**: Nature Biotechnology (2018)
+*   **DOI**: `10.1038/nbt.4235`
+*   **Link**: [Nature Biotechnology](https://www.nature.com/articles/nbt.4235)
 
 ---
 

@@ -1,7 +1,6 @@
-# 📄 Paper 4: Cell2location maps fine-grained cell types in spatial transcriptomics
-*   **Journal / Conference**: Nature Biotechnology (2022)
-*   **DOI**: `10.1038/s41587-021-01139-4`
-*   **Link**: [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01139-4)
+# 📄 Paper 6: Predicting 3D Genome Folding from DNA Sequence with Akita
+*   **Journal / Conference**: Nature Methods (2020)
+*   **DOI**: `10.1038/s41592-020-0958-4`
 
 ---
 

@@ -1,6 +1,7 @@
-# 📄 Paper 5: An Alignment-Based DNA Language Model for Genome-Wide Variant Effect Prediction
-*   **Journal / Conference**: Preprint (2024)
-*   **DOI**: `TBC`
+# 📄 Paper 3: Deep learning: new computational modelling techniques for genomics
+*   **Journal / Conference**: Nature Reviews Genetics (2019)
+*   **DOI**: `10.1038/s41576-019-0122-6`
+*   **Link**: [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
 
 ---
 

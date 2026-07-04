@@ -1,6 +1,7 @@
-# 📄 Paper 9: Detecting Gene Sequence of Recurrence Cervical Cancer Interpolating Biomedical Sensors
-*   **Journal / Conference**: IEEE CSITSS (2022)
-*   **DOI**: `10.1109/CSITSS57431.2022.10031644`
+# 📄 Paper 3: Deep learning: new computational modelling techniques for genomics
+*   **Journal / Conference**: Nature Reviews Genetics (2019)
+*   **DOI**: `10.1038/s41576-019-0122-6`
+*   **Link**: [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
 
 ---
 

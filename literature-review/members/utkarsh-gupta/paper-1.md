@@ -1,6 +1,6 @@
-# 📄 Paper 7: A Machine Learning-Based System for Predicting Monogenic Genetic Disorders
-*   **Journal / Conference**: IEEE ICOEI (2023)
-*   **DOI**: `10.1109/ICOEI56765.2023.10125672`
+# 📄 Paper 1: Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning
+*   **Journal / Conference**: GigaScience (2018)
+*   **DOI**: `10.1093/gigascience/giy037`
 
 ---
 
