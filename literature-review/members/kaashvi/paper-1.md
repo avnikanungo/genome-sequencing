@@ -1,6 +1,6 @@
-# 📄 Paper 6: Artificial Intelligence and Machine Learning (AIML) Approaches to Empower Genomics, Drug, and Biomarker Discovery in ADRD
-*   **Journal / Conference**: Alzheimer's & Dementia (2021)
-*   **DOI**: `10.1002/alz.055848`
+# 📄 Paper 1: Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning
+*   **Journal / Conference**: GigaScience (2018)
+*   **DOI**: `10.1093/gigascience/giy037`
 
 ---
 

@@ -1,7 +1,6 @@
-# 📄 Paper 3: An integrated encyclopedia of DNA elements in the human genome
-*   **Journal / Conference**: Nature (2012)
-*   **DOI**: `10.1038/nature11247`
-*   **Link**: [Nature](https://www.nature.com/articles/nature11247)
+# 📄 Paper 5: Predicting 3D Genome Folding from DNA Sequence with Akita
+*   **Journal / Conference**: Nature Methods (2020)
+*   **DOI**: `10.1038/s41592-020-0958-4`
 
 ---
 

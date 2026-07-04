@@ -1,6 +1,6 @@
-# 📄 Paper 8: A Hierarchical Genomic Deep Neural Network with 1D Shifted Window Transformer
-*   **Journal / Conference**: Preprint (2023)
-*   **DOI**: `TBC`
+# 📄 Paper 1: Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning
+*   **Journal / Conference**: GigaScience (2018)
+*   **DOI**: `10.1093/gigascience/giy037`
 
 ---
 

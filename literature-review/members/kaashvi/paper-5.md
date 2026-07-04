@@ -1,6 +1,7 @@
-# 📄 Paper 9: High-Throughput Deep Learning Variant Effect Prediction with Sequence UNET
-*   **Journal / Conference**: Preprint (2023)
-*   **DOI**: `TBC`
+# 📄 Paper 5: Variational inference for pattern extraction and recognition in genome sequences using state space models for cancer detection
+*   **Journal / Conference**: Data Mining and Knowledge Discovery (2026)
+*   **DOI**: `10.1007/s10791-026-10173-2`
+*   **Link**: [Data Mining and Knowledge Discovery](https://link.springer.com/article/10.1007/s10791-026-10173-2)
 
 ---
 

@@ -1,6 +1,7 @@
-# 📄 Paper 5: Implementation of a Disease Trigger Prediction Model Using AIML for Early Diagnosis of Epilepsy
-*   **Journal / Conference**: IEEE ICSTCE (2023)
-*   **DOI**: `10.1109/ICSTCE57884.2023.10111452`
+# 📄 Paper 4: A universal SNP and small-indel variant caller using deep neural networks
+*   **Journal / Conference**: Nature Biotechnology (2018)
+*   **DOI**: `10.1038/nbt.4235`
+*   **Link**: [Nature Biotechnology](https://www.nature.com/articles/nbt.4235)
 
 ---
 

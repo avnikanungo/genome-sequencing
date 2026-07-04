@@ -1,7 +1,7 @@
-# 📄 Paper 4: Cell2location maps fine-grained cell types in spatial transcriptomics
-*   **Journal / Conference**: Nature Biotechnology (2022)
-*   **DOI**: `10.1038/s41587-021-01139-4`
-*   **Link**: [Nature Biotechnology](https://www.nature.com/articles/s41587-021-01139-4)
+# 📄 Paper 3: Deep learning: new computational modelling techniques for genomics
+*   **Journal / Conference**: Nature Reviews Genetics (2019)
+*   **DOI**: `10.1038/s41576-019-0122-6`
+*   **Link**: [Nature Reviews Genetics](https://www.nature.com/articles/s41576-019-0122-6)
 
 ---
 

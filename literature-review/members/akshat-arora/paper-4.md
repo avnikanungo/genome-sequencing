@@ -1,6 +1,7 @@
-# 📄 Paper 8: An Efficient Deep Convolutional Neural Networks Model for Genomic Sequence Classification
-*   **Journal / Conference**: IEEE ICBDS (2021)
-*   **DOI**: `10.1109/ICBDS53701.2021.9935914`
+# 📄 Paper 4: A universal SNP and small-indel variant caller using deep neural networks
+*   **Journal / Conference**: Nature Biotechnology (2018)
+*   **DOI**: `10.1038/nbt.4235`
+*   **Link**: [Nature Biotechnology](https://www.nature.com/articles/nbt.4235)
 
 ---
 

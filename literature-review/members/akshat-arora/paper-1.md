@@ -1,7 +1,6 @@
-# 📄 Paper 3: An integrated encyclopedia of DNA elements in the human genome
-*   **Journal / Conference**: Nature (2012)
-*   **DOI**: `10.1038/nature11247`
-*   **Link**: [Nature](https://www.nature.com/articles/nature11247)
+# 📄 Paper 1: Chiron: Translating Nanopore Raw Signal Directly into Nucleotide Sequence Using Deep Learning
+*   **Journal / Conference**: GigaScience (2018)
+*   **DOI**: `10.1093/gigascience/giy037`
 
 ---
 
